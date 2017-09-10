@@ -1,2 +1,4 @@
 # hello-world
-Tutorial Trpository
+Tutorial Repository
+
+Following a github tutorial
